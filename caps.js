@@ -36,6 +36,6 @@ caps.on("connection", (socket) => {
     });
     caps.emit("delivered", payload);
   });
-
-  console.log("done");
 });
+
+module.exports = caps;

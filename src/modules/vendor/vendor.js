@@ -18,3 +18,5 @@ socket.on("delivered", (payload) => {
     process.exit();
   }, 5000);
 });
+
+module.exports;
