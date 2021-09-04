@@ -12,10 +12,8 @@
 
 ---
 ### Pull request
-1. https://github.com/Omx302/caps/pull/1
-2. https://github.com/Omx302/caps/pull/2
+https://github.com/Omx302/CAPS-Class-12/commit/24e4c5e85527a825f00e2d0d2a21f3e3f44ea358
 ---
 ### Github actions
-1. https://github.com/Omx302/caps/actions/runs/1180674006
-2. https://github.com/Omx302/caps/actions/runs/1188945987
+https://github.com/Omx302/CAPS-Class-12/actions/runs/1200316513
 ----
